@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     #app installation
     'api.apps.ApiConfig',
     'rest_framework',
-    'core'
+   
 ]
 
 MIDDLEWARE = [
